@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 JOGO LEGAL/ https://github.com/ElgsonNascimento/JogoLegal
 
 Elgson Gabriel
+
 Theo
+
 Caio
 
 O projeto consiste no desenvolvimento de um sistema de biblioteca de jogos em Java, com o objetivo de simular o gerenciamento de jogos digitais e usuários dentro de uma plataforma.
