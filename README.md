@@ -1,4 +1,5 @@
-JOGO LEGAL/ https://github.com/ElgsonNascimento/Bancolegal.git
+<<<<<<< HEAD
+JOGO LEGAL/ https://github.com/ElgsonNascimento/JogoLegal
 
 Elgson Gabriel
 Theo
