@@ -22,3 +22,24 @@ public class Menu {
         }
     }
 }
+switch (opcao) {
+
+        case 1:
+        System.out.println("Abrindo loja...");
+                    break;
+
+                            case 2:
+                            System.out.println("Abrindo biblioteca...");
+                    break;
+
+                            case 3:
+                            System.out.println("Abrindo login...");
+                    break;
+
+                            case 4:
+                            System.out.println("Saindo...");
+                    break;
+
+default:
+        System.out.println("Opção inválida!");
+            }
